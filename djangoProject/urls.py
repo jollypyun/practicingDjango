@@ -1,4 +1,9 @@
 """
+이것이 본질적으로 웹사이트를 통해 뷰를 가리킬 떄 작동한다는 것.
+이 뷰를 이 URL로 보내라고 사용.
+"""
+
+"""
 URL configuration for djangoProject project.
 
 The `urlpatterns` list routes URLs to views. For more information please see:

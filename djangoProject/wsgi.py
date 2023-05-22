@@ -1,4 +1,8 @@
 """
+WSI 호환 웹 서버를 프로젝트에 제공하기 위한 엔트리 포인트
+"""
+
+"""
 WSGI config for djangoProject project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
